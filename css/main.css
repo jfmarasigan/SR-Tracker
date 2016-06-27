@@ -1,0 +1,48 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 3em;
+}
+
+/* HEADER */
+#header {
+	height: 50px;
+	width: 100%;
+}
+
+#header #left{
+	font-size: 80%;
+	color: #000;
+	height: 50px;
+}
+
+#header #left #headerIcon{
+	height: 50px;
+	width: 50px;
+	background-image: url('../assets/radarIcon.png');
+	float: left;
+}
+
+#header #left #headerText{
+	padding-left: 60px;
+}
+
+#header #right{
+
+}
+
+/* NAVIGATION */
+#navbar{
+
+}
+
+/* SEARCH BOX */
+#searchbox{
+
+}
+
+/* SR LIST - HOME */
+#srlist{
+
+}

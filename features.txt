@@ -1,0 +1,8 @@
+1. List of SRs (home)
+2. Basic Details of each SR (number, date started, SR title, description[optional])
+3. Compute SR percentage per cutoff
+4. SR edited file list
+5. Add SR
+
+* Store developer's name
+* Use json files for storage of data
